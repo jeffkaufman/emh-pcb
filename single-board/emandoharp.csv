@@ -1,0 +1,5 @@
+"Reference","Value","Datasheet","Footprint","Qty","DNP"
+"D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,D14,D15,D16,D17,D18,D19,D20,D21,D22,D23,D24,D25,D26,D27,D28,D29,D30,D31,D32,D33,D34,D35,D36","1N5819","http://www.vishay.com/docs/88525/1n5817.pdf","Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal","36",""
+"R1,R2,R3,R4","10kΩ","~","Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal","4",""
+"R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18,R19,R20,R21,R22","1MΩ","~","Resistor_THT:R_Axial_DIN0414_L11.9mm_D4.5mm_P15.24mm_Horizontal","18",""
+"U1","Teensy4.1","","Teensy:Teensy41","1",""
