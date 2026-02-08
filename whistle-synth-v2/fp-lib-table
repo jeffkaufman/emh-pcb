@@ -1,0 +1,6 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Library")(type "KiCad")(uri "${KIPRJMOD}/Library.pretty")(options "")(descr ""))
+  (lib (name "pjrc_REVD_Audio_Adaptor")(type "KiCad")(uri "${KIPRJMOD}/pjrc_REVD_Audio_Adaptor.pretty")(options "")(descr ""))
+  (lib (name "teensy_audio_shield")(type "KiCad")(uri "${KIPRJMOD}/pjrc_REVD_Audio_Adaptor/teensy_audio_shield.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+[submodule "whistle-synth-v2/KiCad"]
+	path = whistle-synth-v2/KiCad
+	url = git@github.com:KennyRedman/KiCad.git

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NTL1
+D NEUTRIK - NTL1 - TRANSFORMER, AUDIO, 1:1
+K
+F https://www.neutrik.com/media/8728/download/ntl1-1.pdf?v=1
+$ENDCMP
+#
+#End Doc Library
